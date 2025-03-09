@@ -1,49 +1,13 @@
-The Project Gutenberg EBook of The Life of Florence Nightingale vol. 1 of 2, by 
-Edward Tyas Cook
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: The Life of Florence Nightingale vol. 1 of 2
-
-Author: Edward Tyas Cook
-
-Release Date: July 16, 2012 [EBook #40057]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE LIFE OF FLORENCE ***
-
-
-
-
-Produced by Jeannie Howse, Jens Nordmann, Bryan Ness and
-the Online Distributed Proofreading Team at
-http://www.pgdp.net (This file was produced from images
-generously made available by The Internet Archive/Canadian
-Libraries)
-
-
-
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 40057 ***
 
                      THE LIFE OF FLORENCE NIGHTINGALE
 
 
                         MACMILLAN AND CO., LIMITED
-                  LONDON · BOMBAY · CALCUTTA · MELBOURNE
+                  LONDON Â· BOMBAY Â· CALCUTTA Â· MELBOURNE
 
                            THE MACMILLAN COMPANY
-           NEW YORK · BOSTON · CHICAGO · DALLAS · SAN FRANCISCO
+           NEW YORK Â· BOSTON Â· CHICAGO Â· DALLAS Â· SAN FRANCISCO
 
                      THE MACMILLAN CO. OF CANADA, LTD.
                                   TORONTO
@@ -255,7 +219,7 @@ bear the blame.
   --Interest in social and political conditions--Italian refugees at
   Geneva--Talks with Sismondi--Visit to Florence--Gaieties and
   music. VI. A winter in Paris (1838-9)--Friendship with Mary Clarke
-  (Madame Mohl)--Madame Récamier's _salon_. Social "temptations"         3
+  (Madame Mohl)--Madame RÃ©camier's _salon_. Social "temptations"         3
 
 
                                 CHAPTER II
@@ -309,7 +273,7 @@ bear the blame.
   A tour that confirmed a vocation. Sight-seeing in Rome--Admiration
   for Michael Angelo--The revelation of the Sistine Chapel--The
   obsession of Rome. II. Italian politics--Pio Nono as Patriot Hero.
-  III. The convent of the Trinità de' Monti--Study of Roman doctrine
+  III. The convent of the TrinitÃ  de' Monti--Study of Roman doctrine
   and ritual--Friendship with the Madre Sta. Colomba--A retreat in
   the convent--The secret of devotion. IV. Meeting with Mr. and Mrs.
   Sidney Herbert and with Manning--The London season--Friendship
@@ -536,7 +500,7 @@ bear the blame.
   soldiers--Her belief in the possibility of reforms. II. Her letter
   to the Queen on drunkenness in the army: considered by the Cabinet
   --Miss Nightingale's Money Order Office at Scutari--Government
-  offices opened--The "Inkerman Café"--Sir Henry Storks--Miss
+  offices opened--The "Inkerman CafÃ©"--Sir Henry Storks--Miss
   Nightingale's influence with the soldiers. III. Establishment of
   reading-rooms and class-rooms                                        276
 
@@ -1028,7 +992,7 @@ present day.[3] On the other hand, the Under-Secretary for India, in his
 Budget Statement for 1913, declared that "the service which has the
 strongest claim after education on the resources of the Government is
 sanitation," and explained that "the Budget estimate of expenditure for
-sanitation comes this year to nearly £2,000,000, showing an increase of
+sanitation comes this year to nearly Â£2,000,000, showing an increase of
 112 per cent over the expenditure of three years ago." So perhaps
 Cinderella is to go to the ball; if ever the glass slipper is found,
 let it be remembered, as this Memoir will show, that Miss Nightingale
@@ -1279,7 +1243,7 @@ which shows the bent of his thoughts:--
 
      I sit by his bedside and look at him as one would at a sleeping
      man, the idea of death only now and then flashing across my mind. I
-     have been _studying_ Mad. de Staël on the feeling of conviction,
+     have been _studying_ Mad. de StaÃ«l on the feeling of conviction,
      which exists more or less in different people and different
      nations, on the subject of soul as independent of external ideas.
      My imagination is a dull one, for it certainly required _study_
@@ -1446,7 +1410,7 @@ ten, strikes mingled notes. She is staying with Uncle Octavius Smith at
 and writes to her sister, who is on a visit with the maid to another set
 of cousins:--
 
-     Give my love to Clémence, and tell her, if you please, that I am
+     Give my love to ClÃ©mence, and tell her, if you please, that I am
      not in the room where she established me, but in a very small one;
      instead of the beautiful view of the Thames, a most dismal one of
      the black distillery, and, whenever I open my window, the nasty
@@ -1475,7 +1439,7 @@ of cousins:--
 
 Was Miss W---- an unsympathetic governess? Whoever she was, the
 exception in her disfavour shows an unregenerate impulse which contrasts
-naïvely with the following good resolve towards her sister. To a year
+naÃ¯vely with the following good resolve towards her sister. To a year
 earlier belongs a little note-book, entitled "Journal of Flo, Embley."
 It begins with the reminder, "The Lord is with thee wherever thou art."
 And then an entry records, "Sunday, I obliged to sit still by Miss
@@ -1661,7 +1625,7 @@ itinerary which she compiled; noting, in its several columns, the number
 of leagues from place to place, with the day and the hour both of
 arrival and of departure. They went leisurely through France, visiting,
 besides many other places, Chartres, Blois, Tours, Nantes, Bordeaux,
-Biarritz, Carcassonne, Nîmes, Avignon, and Toulon, and then going by the
+Biarritz, Carcassonne, NÃ®mes, Avignon, and Toulon, and then going by the
 Riviera to Nice. There they stayed for nearly a month (Dec. 1837-Jan.
 1838). A month was next spent at Genoa, and two months were given to
 Florence. The late spring and summer were devoted to travel in the
@@ -1684,11 +1648,11 @@ Italy. The Nightingales attended an evening party at which the Italian
 refugees assembled and the Imperial decree was read out amidst loud
 jubilation; which, however, was afterwards abated when it turned out
 that the "general amnesty" contained many conditions and some
-exceptions. The Nightingales had the entrée to all the learned society
+exceptions. The Nightingales had the entrÃ©e to all the learned society
 of Geneva. Florence records an evening spent with M. de Candolle, the
 famous botanist; and the diary gives many glimpses of Sismondi, the
 historian, who was then living in his native city. He escorted the
-Nightingale party up the Salève. They made that not very formidable
+Nightingale party up the SalÃ¨ve. They made that not very formidable
 ascent first on donkeys and then "in a sledge covered with straw and
 drawn by four oxen." Florence was present on another occasion when "all
 the company gathered round Sismondi who, sitting on a table, gave us a
@@ -1702,7 +1666,7 @@ histories." Presently there was a new excitement in Geneva. "What a
 stirring time we live in," Florence wrote on September 18; "one day to
 decide the fate of the Italians, to-morrow to decide the fate of
 Switzerland." "To-morrow" was the day fixed for the meeting of the
-Conseil Représentatif which was to take into consideration the demand
+Conseil ReprÃ©sentatif which was to take into consideration the demand
 of Louis Philippe for the expulsion of Louis Napoleon, the future
 Emperor. Many pages of Miss Nightingale's diary are given up to this
 affair. She analysed all the _pros_ and _cons_, and recorded day by day
@@ -1729,7 +1693,7 @@ architectural notes. The city which seems most to have appealed to her
 imagination was not Florence; though she said that she "would not have
 missed it for anything," and, curiously, her sojourn in her birthplace
 was the occasion of a characteristic incident. An English lady, who
-afterwards became Princess Reuss Köstritz, was staying in the same
+afterwards became Princess Reuss KÃ¶stritz, was staying in the same
 lodgings and fell ill, and Florence Nightingale volunteered to nurse
 her. But the city which she most admired was Genoa La Superba. She notes
 indeed the excessive indolence of the nobles and excessive poverty of
@@ -1737,7 +1701,7 @@ the people, but the palaces "realized an Arabian Nights story" for her.
 Mr. and Mrs. Nightingale had many friends and brought many
 introductions. In the various towns where they stayed they mixed in the
 best society, and their daughters were thrown into a lively round of
-picnics, concerts, soirées, dancing:
+picnics, concerts, soirÃ©es, dancing:
 
      Balls and masks begun at midnight, burning ever to mid-day,
      When they made up fresh adventures for the morrow--
@@ -1768,16 +1732,16 @@ other young ladies in her position.
 
 The fascination of social life must have been brought vividly before her
 during the winter (1838-39) which they spent in Paris, in apartments in
-the Place Vendôme (No. 22). She was now introduced into the brilliant
+the Place VendÃ´me (No. 22). She was now introduced into the brilliant
 circle of the last of the _salons_. Mary Clarke, afterwards Madame Mohl,
 was by descent half Irish, half Scottish; by education and residence,
-almost wholly French. "A charming mixture," said Ampère of her, "of
+almost wholly French. "A charming mixture," said AmpÃ¨re of her, "of
 French vivacity and English originality." Full at once of _esprit_ and
-of _espièglerie_, well read and artistic yet wholly devoid of pedantry,
+of _espiÃ¨glerie_, well read and artistic yet wholly devoid of pedantry,
 without regular beauty of feature, but alert and _piquante_, Mary Clarke
 had gathered round her what Ticknor in 1837 had found the most
 intellectual circle in Paris. For seven years she and her mother lived
-in apartments in the Abbaye-au-Bois, adjoining those of Madame Récamier,
+in apartments in the Abbaye-au-Bois, adjoining those of Madame RÃ©camier,
 and Mary was a daily visitor to the famous _salon_ during the reign of
 Chateaubriand, whose closing years she did much to brighten and amuse.
 At the time when the Nightingales arrived in Paris, Mrs. and Miss Clarke
@@ -1802,31 +1766,31 @@ Mohl?" "Yes, certainly," he replied gravely. During the winter of
 1838-39 Miss Clarke, writes Lady Verney, was "exceedingly kind to
 Florence and me, two young girls full of all kinds of interests, which
 she took the greatest pains to help. She made us acquainted with all her
-friends, many and notable, among them Madame Récamier. I know now,
+friends, many and notable, among them Madame RÃ©camier. I know now,
 better than then, what her influence must have been thus to introduce an
 English family (two of them girls who, if French, would not have
 appeared in society) into that jealously guarded sanctuary, the most
 exclusive aristocratic and literary _salon_ in Paris. We were asked,
 even, to the reading by Chateaubriand, at the Abbaye-au-Bois, of his
-_Mémoires d'Outre-Tombe_, which he could not wait to put forth, as he
+_MÃ©moires d'Outre-Tombe_, which he could not wait to put forth, as he
 had intended when writing them, until after his death--desiring, it was
 said, to discount the praises which he expected, but hardly received.
 This hearing was a favour eagerly sought for by the cream of the cream
 of Paris society at that time."[11] In Miss Clarke's own apartments, the
 Nightingales met many distinguished men. The intimates who were always
 there, and who assisted their hostess in making the tea, were MM.
-Fauriel and Mohl--Claude Fauriel, versed in mediæval and Provençal lore,
-a man exceedingly handsome, who had captivated Madame de Staël and other
+Fauriel and Mohl--Claude Fauriel, versed in mediÃ¦val and ProvenÃ§al lore,
+a man exceedingly handsome, who had captivated Madame de StaÃ«l and other
 ladies besides Mary Clarke in his friendships; and Julius Mohl, one of
 the first Orientalists in Europe, a more ardent lover whom, after a
 probation of eighteen years, Miss Clarke married in 1847. M. Mohl was
 once asked by Queen Victoria why, loving Germany so much, he had given
-up his native country for France. "Ma foi, madame," he replied, "j'ètais
+up his native country for France. "Ma foi, madame," he replied, "j'Ã¨tais
 amoureux." With M. Mohl, no less than with his wife, Florence
 Nightingale was on terms of affectionate friendship. Among the frequent
 visitors whom she and her sister met at Miss Clarke's were Madame Tastu
-(the poetess), Élie de Beaumont (the geologist), Roulin (the traveller
-and naturalist), Cousin, Mignet, Guizot, Tocqueville, Barthélemy St.
+(the poetess), Ã‰lie de Beaumont (the geologist), Roulin (the traveller
+and naturalist), Cousin, Mignet, Guizot, Tocqueville, BarthÃ©lemy St.
 Hilaire, and Thiers. The last-named was one of Miss Clarke's earliest
 admirers; and many years later, after the Franco-German war, when Thiers
 was at the head of affairs, Lady Verney heard M. Mohl say to his wife,
@@ -1912,7 +1876,7 @@ interest in the politics of the Bedchamber Plot:--
      splendid player, and Crivelli, her singing master, give us lessons,
      and the unfortunate piano has been strummed out of tune in a week,
      not having even its natural rest at nights, as there are other
-     masters as well. We went to Pauline Garcia's début at the opera in
+     masters as well. We went to Pauline Garcia's dÃ©but at the opera in
      _Otello_. She was exceedingly nervous and trembled all over, but
      her great improvement towards the end promised well. Her lower
      notes are very fine indeed, and two shakes she made low down,
@@ -1952,7 +1916,7 @@ interest in the politics of the Bedchamber Plot:--
      resignation, the Queen dined upstairs with her mother, Baroness
      Lehzen, and Lady F. Hastings, which she had never done since her
      accession, and it is supposed that the _amende honorable_ was then
-     made to Lady Flora, and that in this _partie carrée_ was also
+     made to Lady Flora, and that in this _partie carrÃ©e_ was also
      arranged the course which was to be pursued with Sir Robert Peel.
      The poor little Queen was seen in tears by several people who told
      us in the course of the three days, and struggled for her Ladies,
@@ -1986,7 +1950,7 @@ interest in the politics of the Bedchamber Plot:--
      We always talk of you and all that you did for us at Paris. I heard
      yesterday that Gonfalonieri was coming to London in a month. Is he
      at Paris now? I have just been reading the account of M. Mignet's
-     _éloge_ of Talleyrand. I hope you were there, for it must have been
+     _Ã©loge_ of Talleyrand. I hope you were there, for it must have been
      very interesting, but did not he make rather an extraordinary
      defence of Talleyrand's political tergiversation, and of his
      conduct while the Allies were at Paris? extraordinary to our ideas of
@@ -2048,7 +2012,7 @@ Carter:--
      I said I must have much of the beast in me to be so _very_ happy in
      the sunshine and the flowers, by suggesting that God gave us His
      blessings to enjoy them. So I _am_ comforted, and set to work to
-     enjoy with all my might, and succeed _à merveille_. Still the
+     enjoy with all my might, and succeed _Ã  merveille_. Still the
      garden is big, there are many clumps of rhododendrons and azaleas,
      and showers of rosebuds, and I cannot be all round them at once; so
      we want you to come and help, not so much for your pleasure as to
@@ -2175,7 +2139,7 @@ time."
 It generally happens in any large family circle that there is one woman
 to whom all its members instinctively turn when trouble comes or help
 is needed. Florence was the one in the Nightingale circle who filled
-this rôle of Sister of Mercy or Emergency Man--taking charge of one
+this rÃ´le of Sister of Mercy or Emergency Man--taking charge of one
 household when an aunt was away, or being dispatched to another when
 illness was prevalent. In 1845 she spent some time with her father's
 mother, who was threatened with paralysis, and whom she nursed into
@@ -2324,7 +2288,7 @@ mind already set on a purpose in life:--
      tongue and not "meddle with politics" or "talk about things which I
      don't understand," for I tremble already in anticipation, and
      proceed at once to facts.... The two things we have done in London
-     this year--the most striking things--are seeing Bouffé in
+     this year--the most striking things--are seeing BouffÃ© in
      Clermont, the blind painter (you have seen him, so I need not
      descant on his entire difference from anybody else); and going
      under Mr. Bethune to Sir James South's at Kensington,[19] where we
@@ -2362,7 +2326,7 @@ the character of some of her friends in a letter to her cousin Hilary
      spear (for there is an Ithuriel's spear for good as well as for
      evil).
 
-  [20] _Née_ Mills, cousin of Mr. Arthur Mills, M.P.
+  [20] _NÃ©e_ Mills, cousin of Mr. Arthur Mills, M.P.
 
 Dr. Richard Dawes, Dean of Hereford, who was an educational reformer,
 and Dr. Fowler of Salisbury, who anticipated the open-air treatment, and
@@ -2391,8 +2355,8 @@ Leopold von Ranke with her on a visit:--
 
 "Papa is quizzing the Baronets," added Florence, "who are not wise ones.
 Provided you come, I care for nobody, no not I, and shall be quite
-satisfied. As M. de Something said to the Staël, 'Nous aurons à nous
-deux de l'esprit pour quarante; vous pour quatre et moi pour zéro.'"
+satisfied. As M. de Something said to the StaÃ«l, 'Nous aurons Ã  nous
+deux de l'esprit pour quarante; vous pour quatre et moi pour zÃ©ro.'"
 
 There were return invitations to great houses, and occasionally Florence
 retails their gossip, or her own reflections, for the benefit of cousins
@@ -2448,7 +2412,7 @@ or aunts:--
 
                                     V
 
-Florence's remark that she would only provide the _zéro_ of _esprit_ to
+Florence's remark that she would only provide the _zÃ©ro_ of _esprit_ to
 Miss Clarke's _quatre_, is by no means to be taken literally. She was
 attractive, and she attracted both men and women. She talked well, and
 often laid herself out to interest her companions, and sometimes
@@ -2458,7 +2422,7 @@ with her husband, Dr. Howe, and they visited the Nightingales at Embley.
 than beautiful; she was tall and graceful of figure, her countenance
 mobile and expressive, her conversation most interesting."[24] A
 reminiscence of a later date records an encounter with Sir Henry de la
-Bèche, the pioneer of the Geological Map of England. Warrenton Smythe
+BÃ¨che, the pioneer of the Geological Map of England. Warrenton Smythe
 and Sir Henry dined at Mr. Nightingale's, and Florence sat between them.
 "She began by drawing Sir Henry out on geology, and charmed him by the
 boldness and breadth of her views, which were not common then. She
@@ -2808,7 +2772,7 @@ continues:--
      live much more in the supernatural than the natural world. I always
      believe in Homer; and in St. Paul's "cloud of witnesses"; and in
      the old Italian pictures, which have a first story, where the
-     Unseen live _au premier_, with a two-pair back, where the Père
+     Unseen live _au premier_, with a two-pair back, where the PÃ¨re
      Eternel's shadow is half seen peeping out, and a ground floor where
      poor mortals live, but still have a connexion with the
      establishment above stairs. I like those books, where the Invisible
@@ -2858,8 +2822,8 @@ continues:--
      every moment, and the absence of it makes an awful void in our
      life. Every room becomes a grave, and every book we used to read
      together a monument to the one we love. But some one says, that we
-     need an _idée merveilleuse_ to preserve us from the busy devils,
-     which imagination here is always conjuring up. This _idée
+     need an _idÃ©e merveilleuse_ to preserve us from the busy devils,
+     which imagination here is always conjuring up. This _idÃ©e
      merveilleuse_, I think, is the idea of the loving presence of
      spirits. Those dear ones are safe, and yet with us still, for truly
      do I believe that these senses of ours are what veil from us, not
@@ -3145,7 +3109,7 @@ in date, suggest what was always Miss Nightingale's point of view:--
 
   [31] Edward Vernon Harcourt.
 
-  [32] _Née_ Brandreth (not Mrs. Gaskell, the authoress).
+  [32] _NÃ©e_ Brandreth (not Mrs. Gaskell, the authoress).
 
      EMBLEY, _Feb._ 7 [1851].... I suppose you know how the two churches
      have been convulsing themselves in England in a manner
@@ -3326,9 +3290,9 @@ strong body of evidence to show that hospital nurses had opportunities,
 which they freely used, for putting the bottle to their lips "when so
 disposed," and that other evils were more or less prevalent also.[34]
 Reports from Paris and its famous schools of medicine and surgery were
-no better. One who had been through it said that life at the "Maternité"
-was very coarse. In the _clinique obstétricale_ at the École de Médecin,
-"the élèves have the reputation of being pretty generally the students'
+no better. One who had been through it said that life at the "MaternitÃ©"
+was very coarse. In the _clinique obstÃ©tricale_ at the Ã‰cole de MÃ©decin,
+"the Ã©lÃ¨ves have the reputation of being pretty generally the students'
 mistresses." The difficulties in the way of a refined woman, who sought
 to obtain access to the best training, were very great. Dr. Elizabeth
 Blackwell, a pioneer among woman-doctors in America, told Miss
@@ -3389,7 +3353,7 @@ to Miss Hilary Bonham Carter, begging her to ask Mrs. Jameson about "the
 German lady she knew, who, not being a Catholic, could not take upon
 herself the vows of a Sister of Charity, but who obtained permission
 from the physician of the hospital of her town to attend the sick there,
-and perform all the duties which the S[oe]urs do at Dublin and the Hôtel
+and perform all the duties which the S[oe]urs do at Dublin and the HÃ´tel
 Dieu, and who had been there fifteen years when Mrs. Jameson knew her. I
 do not want to know her name, if it is a secret; but only if she has
 extended it further into anything like a Protestant Sisterhood, if she
@@ -3439,9 +3403,9 @@ diary of 1846:--
      at home. I wanted no other heaven. May God be thanked as He never
      yet has been thanked for that glimpse of what it is to _live_. Now
      for the last five weeks my business has been much harder. They
-     don't know how weary this way of life is to me--this _table d'hôte_
+     don't know how weary this way of life is to me--this _table d'hÃ´te_
      of people.... When I want _Erfrischung_ I read a little of the
-     _Jahresberichte über die Diakonissen-Anstalt in Kaiserswerth_.
+     _Jahresberichte Ã¼ber die Diakonissen-Anstalt in Kaiserswerth_.
      There is my home; there are my brothers and sisters all at work.
      There my heart is, and there I trust one day will be my body;
      whether in this state or in the next, in Germany or in England, I
@@ -3496,7 +3460,7 @@ on Sunday, and of a luncheon with Buckland and his famous menagerie at
 Christ Church, when Florence petted a little bear, and her father drew
 her away, but Mr. Milnes mesmerised it. "And one thing more," she adds;
 "Mr. Hallam's discovery that Gladstone is the Beast 666 (in the
-Revelations) came to him one day by inspiration in the Athenæum, after
+Revelations) came to him one day by inspiration in the AthenÃ¦um, after
 he had tried Pusey and Newman, and found that they wouldn't do."
 
 Miss Nightingale paid many visits during the same year with her father.
@@ -3817,7 +3781,7 @@ continuous thread of interest to all these pearls."
                                     II
 
 The politics of modern Italy interested her no less than the ruins of
-ancient Rome or the monuments of mediæval art. She had met many Italian
+ancient Rome or the monuments of mediÃ¦val art. She had met many Italian
 refugees, both at Geneva and in the _salon_ of Madame Mohl in Paris, and
 was a whole-hearted enthusiast in the cause of Italian freedom. Her
 present visit to Rome synchronized with that curious and short-lived
@@ -3846,7 +3810,7 @@ memorable year began with all its revolutions," she wrote later to
 Madame Mohl, after disillusion had come (June 27), "I thought that it
 was the Kingdom of Heaven coming under the fate of a Republic. But alas!
 things have shown that more of us must slowly ripen to angels here,
-before the régime of the angels, _i.e._ the Kingdom of Heaven, will
+before the rÃ©gime of the angels, _i.e._ the Kingdom of Heaven, will
 begin." But for the moment everything seemed radiant. She recorded with
 pleasure in February that a deputation of Romans had gone up to the Pope
 to express their "complete confidence in him." In her note-books she
@@ -3907,7 +3871,7 @@ was a rebel.
 During her own stay in Rome, however, there was something which
 interested her more than Roman politics or Roman monuments. It was the
 philanthropic work of a Convent School. Every visitor to Rome knows the
-Trinità de' Monti. The flight of steps between the church and the Piazza
+TrinitÃ  de' Monti. The flight of steps between the church and the Piazza
 di Spagna is celebrated alike for its own beauty and for the
 flower-girls and women in peasant-costume who frequent it. The church
 itself contains many fine works of art, and the choral service is one of
@@ -3934,7 +3898,7 @@ into a master of the soul." Her deep sense of the self-responsibility of
 every human soul kept her free from any inclination to Roman doctrine;
 but she was profoundly impressed by the practical beneficence of Roman
 sisterhoods. An example of such beneficence she found in the school and
-orphanage of the Dames du Sacré C[oe]ur. She had picked up a poor girl
+orphanage of the Dames du SacrÃ© C[oe]ur. She had picked up a poor girl
 called Felicetta Sensi, and procured her admission as a free boarder,
 paying for her care and education for many years. She formed a warm
 attachment to the Lady Superior, the Madre Sta. Colomba. She studied the
@@ -3950,7 +3914,7 @@ of mind in which the current of desire is flowing towards one high end.
 This does not presuppose knowledge, but it very soon attains it."[40]
 This was a profound conviction of her own, often expressed, as we shall
 hear, in her Addresses and Letters of Exhortation in later years. What
-she set herself to study at the Trinità de' Monti was the secret of
+she set herself to study at the TrinitÃ  de' Monti was the secret of
 _devotion_. She made notes of the Lady Superior's exhortations; of the
 spiritual exercises which were enjoined upon novices; of the forms and
 discipline of self-examination. She sought to extract the secret, and to
@@ -3975,7 +3939,7 @@ professional experience.
 
   [40] Letter from R. Angus Smith, July 7, 1859.
 
-In such studies upon the Trinità de' Monti in the winter of 1847-48, she
+In such studies upon the TrinitÃ  de' Monti in the winter of 1847-48, she
 was taken, as she said in a note of self-examination, out of all
 interests that fostered her "vanity"; it was her "happiest New Year."
 "The most entire and unbroken freedom from dreaming I ever had," she
@@ -3995,8 +3959,8 @@ upon her career. Among the English visitors who spent the winter of
 already been Secretary at War under Peel, a post to which he was
 afterwards to return under Aberdeen. The resignation of Peel's Cabinet
 in 1846 released Mr. Herbert from official work. Later in the year he
-married a lady with whom he had been long acquainted, Elizabeth à Court,
-daughter of General Charles Ashe à Court; and in the following year he
+married a lady with whom he had been long acquainted, Elizabeth Ã  Court,
+daughter of General Charles Ashe Ã  Court; and in the following year he
 and his wife set out for a long Continental tour. Mr. and Mrs.
 Bracebridge were friends of the Herberts, and thus Florence Nightingale
 made their acquaintance in Rome. In her retrospect she specially
@@ -4005,7 +3969,7 @@ recalled the beginning there of her friendship with Sidney Herbert
 any foreign resort are apt to see a good deal of each other, and from
 this winter dates the beginning of a friendship which was to be a
 governing factor in the life of Florence Nightingale. Sidney Herbert,
-when they met in galleries or at soirées, or rode together in the
+when they met in galleries or at soirÃ©es, or rode together in the
 Campagna, must have been struck by Miss Nightingale's marked abilities,
 and for Mrs. Herbert she formed an affectionate attachment. She noted
 "the great kindness, the desire of love, the magnanimous generosity" of
@@ -4169,7 +4133,7 @@ November 18 the travellers landed at Alexandria. On the 27th they
 reached Cairo. On December 4 they started in a dahabiah for the Nile
 voyage. The boat was christened in honour of Florence's sister. "My
 work," she wrote, "is making the pennant, blue bunting with swallow
-tail, a Latin red cross upon it, and [Greek: PARTHENOPÊ] in white tape.
+tail, a Latin red cross upon it, and [Greek: PARTHENOPÃŠ] in white tape.
 It has taken all my tape, and a vast amount of stitches, but it will be
 the finest pennant on the river, and my petticoats will joyfully
 acknowledge the tribute to sisterly affection, for sisterly affection in
@@ -4251,8 +4215,8 @@ as expounded by the best writers of the time:--
 
 It was no wonder that Miss Nightingale pitied the poor people; for the
 Egypt in which she travelled was as Mehemet Ali, the Lion of the Levant,
-had left it. She saw girls sold in the open slave market "at from £2 to
-£9 a head." She heard how justice was sold to the highest bidder; and
+had left it. She saw girls sold in the open slave market "at from Â£2 to
+Â£9 a head." She heard how justice was sold to the highest bidder; and
 "everybody," she noted, "seems to bastinado everybody else." "Every
 man," she noted further, "is a conscript for the army, and mothers put
 out their children's right eye to save them from conscription, till
@@ -4270,7 +4234,7 @@ Sisterhoods. At Alexandria she passed her days, she wrote, "much to my
 satisfaction, as I had travelled with two Sisters of St. Vincent de Paul
 from Paris to Auxerre, who gave me an introduction to the Sisters here;
 and I have spent a great deal of time with them in their beautiful
-schools and _Miséricorde_. There are only 19 of them, but they seem to
+schools and _MisÃ©ricorde_. There are only 19 of them, but they seem to
 do the work of 90."
 
   [45] _E.g._ in an article in _Good Words_, August 1879: "Whoever in the
@@ -4336,7 +4300,7 @@ It was characteristic of the philosophical bent of her mind that she
 sought to refer the charm of the scenery to some general law:--
 
      ATHENS, _June_ 8. I have been taking some lovely rides with Mr.
-     Hill on Hymettus, along the Daphne road, and to Karà. How lovely
+     Hill on Hymettus, along the Daphne road, and to KarÃ . How lovely
      the scenery is, would be difficult to describe, and why it is so
      lovely. I begin to think that it is the proportion, and that there
      must be proportion in the things of Nature as of Art. I am talking
@@ -4463,7 +4427,7 @@ to me than the Nile." She stayed a fortnight with the Pastor and his
 wife and the Deaconesses, studying their institutions. "Left
 Kaiserswerth," says the diary (August 13), "feeling so brave as if
 nothing could ever vex me again."[46] She rejoined her friends at
-Düsseldorf. "They stayed at Ghent actually for me to finish my MS."
+DÃ¼sseldorf. "They stayed at Ghent actually for me to finish my MS."
 (August 17). "Finished my MS. They read it. Mr. Bracebridge corrected it
 and sent it off" (August 19). Next day they returned to England. The
 manuscript was of the pamphlet describing "The Institution of
@@ -4483,11 +4447,11 @@ sorrowful.
             "Vier Dinge, Gott, habe ich dir zu bieten,
             Die sich in all deinen Schatzkammern nicht finden:
             Meine Nichtigkeit, meine traurige Armut,
-            Meine verderbliche Sünde, meine ernste Reue.
+            Meine verderbliche SÃ¼nde, meine ernste Reue.
             Nimm diese Gaben an und nimm den Geber hin.
 
-       Kaiserswerth, den 13 August 1850. Fl. N., die mit überfließendem
-       Herzen sich immer der Güte all ihrer Freunde in lieben Kaiserswerth
+       Kaiserswerth, den 13 August 1850. Fl. N., die mit Ã¼berflieÃŸendem
+       Herzen sich immer der GÃ¼te all ihrer Freunde in lieben Kaiserswerth
        erinnern wird. Ich bin ein Gast gewesen, und ihr habt mir
        beherbergt" (_Eine Heldin unter Helden_, 1912, p. 45).
 
@@ -4518,7 +4482,7 @@ think what is not of the first class had better not exist at all; and
 besides I had so much rather live than write; writing is only a
 supplement for living. Would you have one go away and 'give utterance
 to one's feelings' in a poem to appear (price 2 guineas) in the _Belle
-Assemblée_? I think one's feelings waste themselves in words; they ought
+AssemblÃ©e_? I think one's feelings waste themselves in words; they ought
 all to be distilled into actions, and into actions which bring results.
 Do you think a babe would _ever_ learn to walk if it were to talk about
 its living in such 'strange times,' 'I _must_ learn to use my legs,' and
@@ -4999,7 +4963,7 @@ the Institution until October 8.
                                     III
 
 Kaiserswerth is an ancient town on the Rhine, on the right bank, six
-miles below Düsseldorf. In its Church of the twelfth century a reliquary
+miles below DÃ¼sseldorf. In its Church of the twelfth century a reliquary
 is shown, in which are preserved the bones of St. Suitbertus, who came
 there from Ireland to preach the Gospel in 710. Eleven centuries later,
 a Protestant pastor of Kaiserswerth repaid the debt to the British Isles
@@ -5018,7 +4982,7 @@ the failure of a silk-mill. In England, the little Princess Victoria
 headed his list of subscribers. In London he met Mrs. Elizabeth Fry and
 was greatly impressed with her work in Newgate. Shortly after his return
 he founded (1826) the Rhenish-Westphalian Prison Association. Presently
-he met a kindred spirit in Friederike Münster, a woman in comparatively
+he met a kindred spirit in Friederike MÃ¼nster, a woman in comparatively
 easy circumstances who was devoting herself to reformatory work. They
 married, and in 1833--in a tiny summer-house in the pastor's garden--a
 refuge was opened for the reception of a single discharged prisoner.
@@ -5057,7 +5021,7 @@ some notes written on June 15, 1848, I find this passage:--
      Kaiserswerth, a clergyman and his wife have begun, not with a
      Prospectus, but with a couple of hospital beds, and have offered,
      not an advertisement, but a home to young women willing to come. At
-     Berne, a Mdlle. Würstenberger, a woman of rank and education, goes
+     Berne, a Mdlle. WÃ¼rstenberger, a woman of rank and education, goes
      to Kaiserswerth to learn, and her friend to Strassburg. They return
      and open a hospital with two rooms, increase their funds, others
      join them and are taught by them.... To publish first is as bad a
@@ -5111,7 +5075,7 @@ though the field was limited, was provided in some sort the training
 which alone could fit women for larger responsibilities elsewhere. Here
 was "the service of man" organized as "the service of God"; here was
 opportunity for the Dedicated Life, as she had found it also in the
-Trinità de' Monti.
+TrinitÃ  de' Monti.
 
   [56] Letter to Mrs. C. S. Roundell, August 4, 1896.
 
@@ -5283,7 +5247,7 @@ difficulties ahead, she could afford to be patient for a while:--
      with an Englishman. I suppose the habit of examining organisations
      gives them this.... Poor Cassandra has found an unexpected ally in
      a young surgeon of a London hospital, a son of Dr. Johnson who
-     sits next Papa at the _table d'hôte_. The account he gives of the
+     sits next Papa at the _table d'hÃ´te_. The account he gives of the
      nurses beats everything that even I know of. This young prophet
      says that they are all drunkards, without exception, Sisters and
      all, and that there are but two nurses whom the surgeon can trust
@@ -5567,11 +5531,11 @@ Miss Nightingale was next determined to do the like among the Catholic
 Sisters in France. She sought the good offices of Manning, whose
 acquaintance she had made in Rome five years before, and who had now
 lately been received into the Roman Communion. Manning put himself into
-communication with his friend, the Abbé Des Genettes, in Paris. The Abbé
+communication with his friend, the AbbÃ© Des Genettes, in Paris. The AbbÃ©
 obtained leave from the Council of the Sisters of Charity for the
 English lady to study their institutions. It had been explained to him
 that Miss Nightingale was also desirous of studying the hospitals in
-Paris. The Abbé accordingly selected a House belonging to the Sisters
+Paris. The AbbÃ© accordingly selected a House belonging to the Sisters
 which would offer every advantage in this respect. Her cousin, Miss
 Hilary Bonham Carter, who was intent on the study of art and had been
 invited to stay with M. and Madame Mohl, was to accompany her to Paris;
@@ -5641,11 +5605,11 @@ struggles and delays, was she launched upon her true work in the world.
 
 The institution in which Florence Nightingale was to serve her
 apprenticeship in Paris was the Maison de la Providence, belonging to
-the S[oe]urs de la Charité in the Rue Oudinot (No. 5), Faubourg St.
-Germain. The Abbé Des Genettes described in a letter to Manning the
-attractions which it would offer to his protegée. The principal House,
+the S[oe]urs de la CharitÃ© in the Rue Oudinot (No. 5), Faubourg St.
+Germain. The AbbÃ© Des Genettes described in a letter to Manning the
+attractions which it would offer to his protegÃ©e. The principal House,
 managed by twenty Sisters, received nearly two hundred poor orphans, and
-also conducted a _crêche_. A hospital was attached to it, next door, for
+also conducted a _crÃªche_. A hospital was attached to it, next door, for
 aged and sick women. Within ten minutes' walk Miss Nightingale would
 find two other hospitals, one a general hospital, the other a children's
 hospital. The English _demoiselle_ would conform, in accordance with her
@@ -5662,7 +5626,7 @@ eagerly. She left London for Paris on February 3, 1853, with her cousin,
 Miss Bonham Carter, and they stayed with M. and Madame Mohl in the Rue
 du Bac. Before entering the Maison de la Providence, Miss Nightingale
 desired to visit and study other institutions in Paris. She was armed
-with a comprehensive permit from the Administration Générale de
+with a comprehensive permit from the Administration GÃ©nÃ©rale de
 l'Assistance Publique to study in all the hospitals of the city. She
 availed herself indefatigably of this permission, spending her days in
 inspecting hospitals, infirmaries, and religious houses, and having the
@@ -5673,7 +5637,7 @@ tabulated analyses of hospital organization and nursing arrangements
 both in France and in Germany, and a circular of questions bearing on
 the same subjects which she seems to have addressed to the principal
 institutions in the United Kingdom. Her evenings were spent in company
-with her host and hostess. There were _soirées dansantes_ in the Rue du
+with her host and hostess. There were _soirÃ©es dansantes_ in the Rue du
 Bac. She went once or twice with Madame Mohl to balls elsewhere, and
 also to the opera. She met many English visitors and distinguished
 Parisians. Having completed her general inquiries into the Paris
@@ -5827,7 +5791,7 @@ time:--
      I have had the measles at the S[oe]urs. And, of all my adventures,
      of which I have had many and queer, as will be (never) recorded in
      the Book of my Wanderings, the dirtiest and the queerest I have
-     ever had has been a measles in the cell of a S[oe]ur de la Charité.
+     ever had has been a measles in the cell of a S[oe]ur de la CharitÃ©.
      They were very kind to me--and dear M. Mohl wrote to me almost
      every day, and sent me tea (which, however, they would not let me
      have), and he lastly, in his paternity, would have me back (where I
@@ -5848,8 +5812,8 @@ time:--
      The Dr. would not believe I could have had them before. Well, I'm so
      ashamed of myself that I shall lock myself up for the rest of my life,
      and never go nowhere no more. For you see, it's evident that
-     Providence, who was always in my way, and who, as the Supérieure
-     said, is _très admirable_ (meaning wonderful) in having done this,
+     Providence, who was always in my way, and who, as the SupÃ©rieure
+     said, is _trÃ¨s admirable_ (meaning wonderful) in having done this,
      does not mean me to come to Paris nor to the S[oe]urs, having twice
      made me ill when I was doing so--and given you all this trouble.
      For me to come to Paris to have the measles a second time, is like
@@ -5891,7 +5855,7 @@ occasion Miss Nightingale found the ladies more difficult than the
 gentlemen. The institution had languished in Chandos Street. She was
 called in to give it new life. Suitable new premises had been found at
 No. 1 Upper Harley Street, and there Miss Nightingale lived, with a few
-brief intervals, until October 1854. She had also a _pied-à-terre_ in
+brief intervals, until October 1854. She had also a _pied-Ã -terre_ in
 some lodgings taken for her by her aunt in Pall Mall, where she
 occasionally saw her friends, and whither she resorted on Sunday
 mornings, in order not to scandalize the patients in Harley Street by
@@ -5950,7 +5914,7 @@ of managing committees:--
 
      (_To her Father._) 1 UPPER HARLEY ST., _December_ 3 [1853]. DEAR
      PAPA--You ask for my observations upon _my_ line of statesmanship. I
-     have been so very busy that I have scarcely made any résumé in my own
+     have been so very busy that I have scarcely made any rÃ©sumÃ© in my own
      mind, but upon doing so now for your benefit, I perceive:--
 
      When I entered into service here, I determined that, happen what
@@ -5961,7 +5925,7 @@ of managing committees:--
 
      I am now in the hey-day of my power. At the last General Committee
      they proposed and carried (without my knowing anything about it) a
-     resolution that I should have £50 per month to spend for the House,
+     resolution that I should have Â£50 per month to spend for the House,
      and wrote to the Treasurer to advance it me. Whereupon I wrote to
      the Treasurer to refuse it me. Lady----, who was my greatest enemy,
      is now, I understand, trumpeting my fame through London. And all
@@ -5977,7 +5941,7 @@ of managing committees:--
 
      1. That the successor to our House Surgeon (resigned) should be a
      dispenser, and dispense the medicines in the house, saving our bill
-     at the druggist's of £150 per annum.
+     at the druggist's of Â£150 per annum.
 
      2. A series of House Rules, of which I send you the rough copy.
 
@@ -6081,7 +6045,7 @@ be found at intervals. Despots do nothing in teaching others.
 Republicans keep teaching each other all day long." He was most
 sympathetic in her difficulties, but he was not sure that those about
 him would be so. There is a postscript in one of his letters which tells
-a good deal between the lines: "Better write to me at the Athenæum so as
+a good deal between the lines: "Better write to me at the AthenÃ¦um so as
 not to excite inquiry." Her mother and sister seem to have thought that
 while they were in London Florence might have lived at home, or, at any
 rate, have often been with them. Why should she be wearing herself out
@@ -6359,7 +6323,7 @@ the "Special Correspondent's" letter on October 12 by a leading article,
 making appeal to its readers, who were sitting comfortably at home, to
 bestir themselves, and render such help as might be possible to the
 soldiers in the East. A letter was published next day from Sir Robert
-Peel, who had enclosed £200 to start a fund for supplying the sick and
+Peel, who had enclosed Â£200 to start a fund for supplying the sick and
 wounded with comforts. Other contributions were quickly forthcoming, and
 on October 14 a letter was published asking: "Why have we no Sisters of
 Charity? There are numbers of able-bodied and tender-hearted English
@@ -6470,7 +6434,7 @@ them to the Minister in the following letter addressed to his wife:--
      Scutari, and I have been asked to command it. I take myself out and
      one nurse.
 
-     Lady Maria Forester has given £200 to take out three others. We
+     Lady Maria Forester has given Â£200 to take out three others. We
      feed and lodge ourselves there, and are to be no expense whatever
      to the country. Lord Clarendon has been asked by Lord Palmerston to
      write to Lord Stratford for us, and has consented. Dr. Andrew Smith
@@ -6594,7 +6558,7 @@ letter to her:--
      the experiment should be carried out by one with a capacity for
      administration and experience. A number of sentimental enthusiastic
      ladies turned loose into the Hospital at Scutari would probably,
-     after a few days, be _mises à la porte_ by those whose business
+     after a few days, be _mises Ã  la porte_ by those whose business
      they would interrupt, and whose authority they would dispute.
 
      My question simply is, Would you listen to the request to go and
@@ -7015,7 +6979,7 @@ And again in another letter:--
      the threshold. There she was, receiving in her little bedroom (not
      at bedtime) the Inspector-General, the Consul and Agent, a Queen's
      Messenger, _Times_ Correspondent, and two or three shopkeepers with
-     the same serenity as if in a drawing-room quite _dés[oe]uvrée_. Her
+     the same serenity as if in a drawing-room quite _dÃ©s[oe]uvrÃ©e_. Her
      influence on all (to captain and steward of boat) was wonderful.
      The rough hospital nurses, on the third day after breakfasting and
      dining with us each day, and receiving all her attentions, were
@@ -7092,13 +7056,13 @@ comfort of our soldiers in the East, private individuals took a
 different view, and--in addition to the _Times_ Fund--donations were
 sent to Miss Nightingale personally, both by her friends and by the
 general public. An account rendered after her return[78] from the East
-shows that from the general public she received nearly £7000 in money.
+shows that from the general public she received nearly Â£7000 in money.
 This fund, added to the help which she obtained from the _Times_, and
 supplemented by expenditure out of her private purse, enabled Miss
 Nightingale greatly to extend the scope of her work. The statement that
 she was rich requires some qualification. Her father was rich, but the
 personal allowance which he had made to her, when she declared her
-independence in 1853, was £500 a year, and it remained at this figure
+independence in 1853, was Â£500 a year, and it remained at this figure
 for several years. During her mission to the East she devoted the whole
 of it to her work.
 
@@ -7486,7 +7450,7 @@ embarked. The landing arrangements added to the men's sufferings. To an
 unpractised eye the buildings used as hospitals at Scutari were
 imposing and convenient; and this fact accounts for some of the
 rose-coloured descriptions by which persons in high places were for a
-time misled. Even the Principal Medical Officer on the spot was naïvely
+time misled. Even the Principal Medical Officer on the spot was naÃ¯vely
 content with whitewash as a preparation to fit the Barrack for use as a
 hospital. In fact, however, the buildings were pest-houses. Underneath
 the great structures "were sewers of the worst possible construction,
@@ -7825,7 +7789,7 @@ was done (Nov. 14):--
      wounded--(this is our Phraseology). Then come the operations, and a
      melancholy, not an encouraging List is this. They are all performed
      in the wards--no time to move them; one poor fellow exhausted with
-     hæmorrhage, has his leg amputated as a last hope, and dies ten
+     hÃ¦morrhage, has his leg amputated as a last hope, and dies ten
      minutes after the Surgeon has left him. Almost before the breath
      has left his body it is sewn up in its blanket, and carried away
      and buried the same day. We have no room for Corpses in the Wards.
@@ -8557,7 +8521,7 @@ armies."[119]
 
   [118] _Pincoffs_, pp. 82-83; and see _Hall_, p. 378.
 
-  [119] _La Guerre de Crimée_, by M. L. Baudens, p. 104. Miss Nightingale
+  [119] _La Guerre de CrimÃ©e_, by M. L. Baudens, p. 104. Miss Nightingale
         paid a tribute to the "wise and enlightened sanitary views" of
         M. Baudens. See her _Subsidiary Notes_, p. 133 _n._
 
@@ -9549,8 +9513,8 @@ largely towards repairing it:--
      only record kept is--_a man died_ on such a day. There is a kiosk
      on the Esplanade before the Barrack Hospital, rejected by the
      Quarter-Master for his stores, which I have asked for and obtained
-     as a School of Medicine. It is not used now for any purpose--£300
-     or £400 (which I would willingly give) would put it in a state of
+     as a School of Medicine. It is not used now for any purpose--Â£300
+     or Â£400 (which I would willingly give) would put it in a state of
      repair. It is not overlooked and is in every way calculated for the
      purpose I have named. The Medical teaching duties could not be
      carried on efficiently with a less staff than two lecturers on
@@ -10506,7 +10470,7 @@ when that vessel left, on the sailing transport _London_.
         a visit to London to see the Exhibition of 1862, and in sending him
         illustrated newspapers, and even the _Times_. There was another
         Crimean lad, besides Tommy, one William Jones, with a wooden leg.
-        See below, p. 304, where account is also given of another protégé,
+        See below, p. 304, where account is also given of another protÃ©gÃ©,
         Peter.
 
 
@@ -10923,12 +10887,12 @@ supplies for the sick, and also a packet of "Lives," "Portraits," and
 the like to Scutari. "My effigies and praises," she wrote in reply,
 "were less welcome. I do not affect indifference to real sympathy, but I
 have felt painfully, the more painfully since I have had time to hear of
-it, the éclat which has been given to this adventure. The small still
+it, the Ã©clat which has been given to this adventure. The small still
 beginning, the simple hardship, the silent and _gradual_ struggle
 upwards, these are the climate in which an enterprise really thrives and
 grows. Time has not altered our Saviour's lesson on that point, which
 has been learnt successively by all reformers from their own experience.
-The vanity and frivolity which the éclat thrown upon this affair has
+The vanity and frivolity which the Ã©clat thrown upon this affair has
 called forth has done us unmitigated harm, and has brought mischief on
 (perhaps) one of the most promising enterprises that ever set sail from
 England. Our own old party which began its work in hardship, toil,
@@ -11016,7 +10980,7 @@ sympathy; but the glitter of praise and reputation was as nothing, or
 less than nothing, to her. She was wrestling by those bleak shores with
 disease and death, wrestling, too, with jealousies and intrigues and
 other difficulties. She cared for no recognition, except in so far as it
-could help her in her work. A contribution of £1000 to her private fund,
+could help her in her work. A contribution of Â£1000 to her private fund,
 sent by the people of New Zealand in November, greatly pleased her. "If
 my name," she wrote to her parents, "and my having done what I could for
 God and mankind has given you pleasure, that is real pleasure to me. My
@@ -11097,9 +11061,9 @@ Orders, I would not do so, and thereby countenance what I disapproved.
 Others may do as they please, but though Linton, Cruikshanks, and Lawson
 have all subscribed, I believe the subscriptions _in the hospital_ are
 not many or large."[186] But this disgruntlement of the doctors was not
-shared by the troops, who subscribed nearly £9000 to the Fund. The
+shared by the troops, who subscribed nearly Â£9000 to the Fund. The
 Commander of the Forces, in sending to the Secretary of the Fund a first
-remittance of £4000 from "Headquarters, Crimea," wrote (February 5,
+remittance of Â£4000 from "Headquarters, Crimea," wrote (February 5,
 1856) that this amount, "the result of voluntary individual offerings,
 plainly indicates the universal feeling of gratitude which exists among
 the troops engaged in the Crimea for the care bestowed upon, and the
@@ -11109,7 +11073,7 @@ unwearying, constant personal attention, of Miss Nightingale and the
 other ladies associated with her." The Navy and the Coastguard Service
 subscribed also. Nor was "society" all on the side of Lady Palmerston. A
 concert given by Madame Goldschmidt (Jenny Lind) brought in nearly
-£2000. The ultimate application of the Fund did not follow precisely the
+Â£2000. The ultimate application of the Fund did not follow precisely the
 lines originally proposed, but it was the means of enabling Miss
 Nightingale to do one of the most useful pieces of her life's work.[187]
 
@@ -11288,7 +11252,7 @@ Her first endeavour was to help and encourage the soldiers in sending
 home a portion at least of their pay. She formed an extempore Money
 Order Office, in which, on four afternoons in each month, she received
 the money of any soldier who desired to send it home to his family.
-About £1000 was thus received monthly in small sums, which, by
+About Â£1000 was thus received monthly in small sums, which, by
 post-office orders obtained in England, were transmitted to their
 several recipients. Her uncle, Mr. Samuel Smith, undertook the English
 agency for her. After the Cabinet Council, just described, Lord Panmure
@@ -11301,10 +11265,10 @@ initiative and established offices for money orders at Constantinople,
 Scutari, Balaclava, and "Headquarters, Crimea." "It will do no good,"
 wrote "Mars," convinced against his will; "the soldier is not a
 remitting animal."[192] But in fact, during the following six months, a
-sum of £71,000 was sent home.[193] Miss Nightingale felt much
+sum of Â£71,000 was sent home.[193] Miss Nightingale felt much
 satisfaction in having been the means of "rescuing this money from the
 canteen." She was instrumental also in establishing a rival house,
-named, after a soldiers' battle, the "Inkerman Café." This was
+named, after a soldiers' battle, the "Inkerman CafÃ©." This was
 pleasantly situated close to the shore of the Bosphorus, midway between
 the main hospitals at Scutari. Miss Nightingale devoted much attention
 to the details of this coffee-house, and framed the list of prices. In
@@ -11395,7 +11359,7 @@ obtain a lively account of the work:--
      (_To Florence Nightingale._) [_Nov._ 16, 1855.] Please, my dear,
      acknowledge a print which the Queen sends you for the soldiers. She
      heard thro' Lady Augusta Bruce that you had asked for one of her
-     for the "Inkerman Café "; and she accordingly sends you the one of
+     for the "Inkerman CafÃ© "; and she accordingly sends you the one of
      the Duke of Wellington presenting May flowers to the little Prince
      Arthur his godson; which is very pretty of her, for it combines so
      many things. It is sent to you to do what you like with, so I have
@@ -11547,7 +11511,7 @@ April," she wrote to Mrs. Herbert from the Castle Hospital (Nov. 17,
 1855), "I undertook this Hospital, and from that time to this we cooked
 all the Extra Diet for 500 to 600 patients, and the _whole_ diet for all
 the wounded officers by ourselves in a shed; and though I sent up a
-French cook in July to whom I gave £100 a year, I could not get an Extra
+French cook in July to whom I gave Â£100 a year, I could not get an Extra
 Diet Kitchen built, promised me in May, till I came up this time to do
 it myself in October. During the whole of this time, every egg, every
 bit of butter, jelly, ale, and Eau de Cologne which the sick officers
@@ -12441,7 +12405,7 @@ conditions of strain and distress, such as might have undermined the
 strongest constitution. Mr. Herbert, who was in Ireland when she
 returned to England, surmised from her letters that she was overwrought,
 and sent her the prescription of his Carlsbad doctor--_ni lire_, _ni
-écrire_, _ni réfléchir_. After such severe tension of mind and body, a
+Ã©crire_, _ni rÃ©flÃ©chir_. After such severe tension of mind and body, a
 reaction was inevitable. He sent the prescription, but he did not expect
 her entirely to adopt it. "I should doubt," he wrote to her uncle, "with
 a mind constituted as hers is, whether _entire_ rest, with a total
@@ -13188,7 +13152,7 @@ examining lawyer," Sir T. Phillips. He was the one dark horse; and,
 before the Commission sat, Miss Nightingale was asked to meet him. "We
 propose an irregular _mess_," wrote Mrs. Herbert to her (May 12, '57),
 "as Sidney thinks Sir T. Phillips wants cramming." There was on the
-Commission only one upholder of the old régime, Dr. Andrew Smith.
+Commission only one upholder of the old rÃ©gime, Dr. Andrew Smith.
 
   [243] _Stanmore_, vol. ii. pp. 119-122.
 
@@ -13351,7 +13315,7 @@ Lord Panmure bethought himself of doing something. His expedient was
 signally ill-judged. He had "the honour to acquaint" the Commissioners
 "that Her Majesty's Government have decided to mark the services
 rendered by you in the discharge of your duties in the Crimea, by
-tendering to each of you the sum of £1000." This pecuniary estimate of
+tendering to each of you the sum of Â£1000." This pecuniary estimate of
 their services was promptly refused by each of them. "To accept it,"
 wrote Mrs. Tulloch, "is almost the only thing I could not pardon in my
 husband, but, thank God, he feels as I do on the subject." Miss
@@ -13511,7 +13475,7 @@ worked.... Many of Miss Nightingale's suggestions in the Report signed
 by herself and Dr. Sutherland can be carried out by alterations, but the
 total abandonment of the plan will be a most serious affair."[253] It
 appears from Miss Nightingale's papers that the War Office's estimate of
-the cost was £70,000; and these 70,000 reasons, combined with the
+the cost was Â£70,000; and these 70,000 reasons, combined with the
 argument from _amour propre_, caused Lord Panmure to win. Though ever
 reluctant to acknowledge defeat till she had fired her last shot, Miss
 Nightingale knew when she was finally beaten on one ground and she then
@@ -14103,7 +14067,7 @@ Herbert's call to supply details, missing dates, and references. Every
 one familiar with the courts knows how even the ablest counsel will
 sometimes stumble over a date or fumble among his papers for a
 particular document, till a junior behind him or the solicitor in front
-of him comes to his rescue. That was another rôle played by Miss
+of him comes to his rescue. That was another rÃ´le played by Miss
 Nightingale, though behind the scenes. "Sidney is again in despair for
 you," wrote Mrs. Herbert; "can you come? You will say, _Bless_ that man,
 why can't he leave me in peace? But I am only obeying orders in begging
@@ -14197,9 +14161,9 @@ was shown conclusively by the Royal Commission that, as Miss Nightingale
 had said, the rate of mortality in the Army at home in time of peace
 was double that of the civil population. A comparison of the civil and
 military mortality in certain London parishes was yet more startling. In
-St. Pancras the civil rate was 2·2; the rate in the barracks of the 2nd
-Life Guards was 10·4. In Kensington the civil rate was 3·3; the rate in
-the Knightsbridge barracks was 17·5. Every one who knew the contents of
+St. Pancras the civil rate was 2Â·2; the rate in the barracks of the 2nd
+Life Guards was 10Â·4. In Kensington the civil rate was 3Â·3; the rate in
+the Knightsbridge barracks was 17Â·5. Every one who knew the contents of
 the Report perceived that this was the point which would cause a
 sensation. The Crimean War and its muddles were beginning to fade into
 the past, especially in view of the Indian Mutiny; and reorganization of
@@ -14491,7 +14455,7 @@ penitent." To this letter she replied as follows:--
      object to employ the first or overcome the last. Or, since I am
      speaking to an artist and must illustrate and not define, the
      "Cristo della Moneta" of Titian at Dresden is an ascetic. The "Er
-     ist vollbracht" of Albert Dürer at Nuremberg is a Christ--he whom
+     ist vollbracht" of Albert DÃ¼rer at Nuremberg is a Christ--he whom
      we call an example, though little we make of it. For our Church has
      daubed that tender, beautiful image with coarse bloody colours till
      it looks like the sign of a road-side inn. And another has
@@ -14877,7 +14841,7 @@ Ministers. On June 11 Dr. T. Alexander was appointed to succeed Sir
 Andrew Smith. Dr. Alexander unhappily died suddenly at the beginning of
 1860, but it was a great thing for the Reformers, at a time when the
 Army Medical Department was being recast, to have one of themselves at
-the head of it, instead of a supporter of the _ancien régime_. "I cannot
+the head of it, instead of a supporter of the _ancien rÃ©gime_. "I cannot
 say," wrote Mr. Herbert to Miss Nightingale (Sept. 16, 1858), "how glad
 I am to have your account of Alexander. Everything _in futuro_ must
 depend on him. You cannot maintain a commission sitting permanently _in
@@ -15025,7 +14989,7 @@ as its chief military hospital a building far from satisfactory."[276]
 
   [275] See Bibliography A, No. 10.
 
-  [276] Professor F. de Chaumont in the 9th ed. of the _Encyclopædia
+  [276] Professor F. de Chaumont in the 9th ed. of the _EncyclopÃ¦dia
         Britannica_. Netley is, however, no longer the chief military
         hospital.
 
@@ -15131,7 +15095,7 @@ alike at once turned to her public work.
   [278] _England and her Soldiers_, by Harriet Martineau, 1859. Miss
         Nightingale's "coxcomb" diagrams were reproduced in this volume.
         She revised Miss Martineau's MS., supplemented the publisher's
-        fee to the author, and bought £20 worth of the book for
+        fee to the author, and bought Â£20 worth of the book for
         presentation to reading-rooms.
 
 At the end of 1858 Miss Nightingale put out one of the most effective of
@@ -15568,8 +15532,8 @@ first months of the Crimean War the mortality was at the rate of 60 per
 cent, and the 'constantly sick' in the hospitals were sevenfold those in
 the war hospitals in China." The improvement in the health of the Army
 has, in peace at any rate, been progressive. In 1857 the annual rate of
-mortality in the Army at home was 17·5 per 1000. Forty years later it
-had fallen to 3·42. In 1911 it was 2·47.
+mortality in the Army at home was 17Â·5 per 1000. Forty years later it
+had fallen to 3Â·42. In 1911 it was 2Â·47.
 
 Besides all this, Mr. Herbert undertook in 1859 the chairmanship of the
 Royal Commission on the Sanitary State of the Indian Army. Other work of
@@ -16204,7 +16168,7 @@ unique. "Have you," she was asked by the Royal Commission of 1857,
 "Yes," she replied, "for thirteen years. I have visited all the
 hospitals in London, Dublin, and Edinburgh, many county hospitals, some
 of the naval and military hospitals in England; all the hospitals in
-Paris, and studied with the 's[oe]urs de charité'; the Institution of
+Paris, and studied with the 's[oe]urs de charitÃ©'; the Institution of
 Protestant Deaconesses at Kaiserswerth, on the Rhine, where I was twice
 in training as a nurse; the hospitals at Berlin, and many others in
 Germany, at Lyons, Rome, Alexandria, Constantinople, Brussels; also the
@@ -16229,7 +16193,7 @@ Nightingale's work in this field. Before she wrote, there was sad need
 of the application of sanitary science to many of our hospitals. The
 rate of mortality in them was terribly high. Hospitals created almost as
 many diseases as they cured; there was hospital gangrene, hospital
-pyæmia, hospital erysipelas, hospital fever, and so forth. It was even
+pyÃ¦mia, hospital erysipelas, hospital fever, and so forth. It was even
 questioned whether great hospitals were not, and must not necessarily
 be, producers of disease. Miss Nightingale showed that there was no such
 necessity. By the light of sanitary science, she traced back the
@@ -16328,7 +16292,7 @@ specifications for it. Even where she was not directly consulted or
 concerned, her influence and the standard she had set up in her book had
 an effect. Medical officers and military governors sought leave to be
 able to quote her approval of hospitals under their charge. It would, as
-one naïvely wrote to her, improve their chances of promotion.
+one naÃ¯vely wrote to her, improve their chances of promotion.
 
 A more direct result of the publication of _Notes on Hospitals_ was to
 bring in upon Miss Nightingale copious requests for advice from the
@@ -16408,7 +16372,7 @@ compared the estimated cost of "adaptation" with that of building a new
 hospital on a better site. She submitted plans and details of her
 estimate. She promised the advice of Dr. Sutherland in the choice of a
 new site. "I understand," she wrote, "that Lord Ashburton will give
-£1000 towards a new hospital, if built upon a new site; if not,
+Â£1000 towards a new hospital, if built upon a new site; if not,
 nothing." As Lady Ashburton was one of her dearest friends, this
 condition was probably not unprompted. On the same condition, she
 promised contributions from herself and her father. She collected and
@@ -16609,7 +16573,7 @@ Dr. William Farr, the leading statistician of her day in this country.
 From his meteorological studies, Quetelet deduced a law of the flowering
 of plants. One of his cases was the lilac. The common lilac flowers,
 according to Quetelet's law, when the sum of the squares of the mean
-daily temperatures, counted from the end of the frosts, equals 4264°
+daily temperatures, counted from the end of the frosts, equals 4264Â°
 _centigrade_. Miss Nightingale was greatly interested in such
 calculations, and the lilac had a special place in her year. Lady
 Verney's birthday was April 19, and a branch of flowering lilac was
@@ -16738,7 +16702,7 @@ subject is characteristic:--
      foreigners. Let _them_ not see our short-comings and disunions. Many
      countries, far behind us in political business, are far before us in
      organization-power. If any one has ever been behind the scenes, living
-     in the interior, of the Maison Mère of the "Sisters of Charity" at
+     in the interior, of the Maison MÃ¨re of the "Sisters of Charity" at
      Paris, as I have--and seen their Counting House and Office, all worked
      by women,--an Office which has twelve thousand Officials (all women)
      scattered all over the known world--an office to compare with which,
@@ -16989,7 +16953,7 @@ inventor of antiseptic surgery; and Florence Nightingale, the founder of
 modern nursing. The second of the great discoveries completed the
 beneficent work of the first. The third development--the creation of
 nursing as a trained profession--has co-operated powerfully with the
-other two, and would have been beneficent even if the use of anæsthetics
+other two, and would have been beneficent even if the use of anÃ¦sthetics
 and antiseptics had not been discovered. The contribution of Florence
 Nightingale to the healing art was less original than that of either
 Simpson or Lister; but perhaps, from its wider range, it has saved as
@@ -17141,7 +17105,7 @@ says they always engage them without any character, as no respectable
 person would undertake so disagreeable an office. He says the duties
 they have to perform are most unpleasant, and that it is little wonder
 that many of them drink, as they require something to keep up the
-stimulus." The ordinary wages were £14 to £16 a year. It should be
+stimulus." The ordinary wages were Â£14 to Â£16 a year. It should be
 remembered, further, that hospital nurses had, as a rule, in the middle
 of the last century no uniform dress, and cooked their own food (which
 they bought for themselves), eating their meals in the ward kitchens or
@@ -17156,7 +17120,7 @@ trained nurses from St. John's House under Miss Mary Jones. "By the end
 of the day the new-comers, who had arrived in clean and dainty uniforms,
 were like a set of sweeps or char-women, in such an appalling state of
 disorder had they found their wards."[326] There were some excellent
-nurses under the old régime (apart from those trained at St. John's
+nurses under the old rÃ©gime (apart from those trained at St. John's
 House), as Sir James Paget testified[327]; though it may be noted that
 even amongst his model Sisters, one was "not seldom rather tipsy." But
 "the greater part of them," he says, "were rough, dull, unobservant,
@@ -17611,7 +17575,7 @@ for Nurses was opened at St. Thomas's Hospital.
         England, was celebrated in America: see Vol. II. p. 421.
 
 This School was a direct outcome of Miss Nightingale's services in the
-Crimean War. The Nightingale Fund, amounting to £44,000, was a tribute
+Crimean War. The Nightingale Fund, amounting to Â£44,000, was a tribute
 from the British Empire to the Popular Heroine. The capital sum, after
 defrayment of some expenses, was invested in the name of trustees, and a
 Council[338] was nominated by Miss Nightingale for the administration of
@@ -17766,7 +17730,7 @@ nurse's record was to be marked as Excellent, Good, Moderate, Imperfect,
 or 0. Those who "passed the examiners," as it were, at the end of their
 year's course, were placed on the Hospital Register as Certificated
 Nurses. As rewards for good conduct and efficiency, the Council offered
-gratuities of £5 and £3, according to two classes of efficiency, to all
+gratuities of Â£5 and Â£3, according to two classes of efficiency, to all
 their certificated nurses, on receiving evidence of their having served
 satisfactorily in a Hospital during one entire year succeeding that of
 their training. Decidedly Miss Nightingale emphasized the educational
@@ -17786,7 +17750,7 @@ pupils, so as to provide a separate bedroom for each, a common
 sitting-room, and two rooms for the Sister in charge of them. No pupil
 was admitted without a testimonial of good character. Their board,
 lodging, washing, and uniform were provided by the Fund. They were given
-£10 for their personal expenses. The chaplain addressed them twice a
+Â£10 for their personal expenses. The chaplain addressed them twice a
 week. They were placed under the direct authority of the Matron, whose
 discipline (as will have been gathered from Miss Nightingale's
 character-sketch) was strict. The least flightiness was reprimanded, and
@@ -18081,7 +18045,7 @@ occupied her thoughts. In 1858 and 1859 she took up the manuscripts
 again. The companionship of Arthur Hugh Clough, who at this time was
 much with her, was doubtless one of the causes which led to an active
 resumption of her theological speculations. She was rereading Mill's
-_Logic_ and reading Edgar Quinet's _Histoire de mes idées_. Mr. Clough's
+_Logic_ and reading Edgar Quinet's _Histoire de mes idÃ©es_. Mr. Clough's
 notes of conversation with her show how much she was indebted in her
 speculations to Mill. "Quinet and J. S. Mill," wrote Mr. Clough (March
 2, 1859), "seemed, she said, the two men who had the true belief about
@@ -18718,7 +18682,7 @@ an "evangelical" doctrine:--
      dislike in Renan is not that it is fine writing, but that it is
      _all_ fine writing. His Christ is the hero of a novel; he himself,
      a successful novel-writer. I am revolted by such expressions as
-     _charmant_, _délicieux_, _religion du pur sentiment_, in such a
+     _charmant_, _dÃ©licieux_, _religion du pur sentiment_, in such a
      subject.... As for the "religion of sentiment," I really don't know
      what he means. It is an expression of Balzac's. If he means the
      "religion of love," I agree and do not agree. We _must love_
@@ -18762,7 +18726,7 @@ in them and from them. She was greatly attracted by the writings of the
 Port Royalists, on which subject there is a long correspondence with her
 father. She admired intensely the aid which Catholic piety had given,
 and was to many of her own friends giving--to the Bermondsey Nuns,
-especially, and to the Mother and Sisters of the Trinità de'
+especially, and to the Mother and Sisters of the TrinitÃ  de'
 Monti--towards purity of heart and the doing of everything from a right
 motive. Then, again, to be "business-like" was with Miss Nightingale
 almost the highest commendation; and in this character also the Roman
@@ -19083,7 +19047,7 @@ pained, by the fact that she seldom had the curiosity even to cut the
 leaves where her praises are sung. To a very long-winded appeal from a
 lady who claimed "the thrilling honour of Miss Nightingale's sympathy":
 "I believe all this, though I don't know the woman from Adam. Send her
-£2 for me, at the same time giving her a hint to look at _Bleak House_."
+Â£2 for me, at the same time giving her a hint to look at _Bleak House_."
 But Mr. Smith, though not a member of Parliament, was an old
 parliamentary hand, and I have seen copies of some of the admirable
 letters in which he carried out, more or less, his niece's instructions.
@@ -19106,7 +19070,7 @@ were sometimes the gainers. On many of their letters I find this
 supplementary docket from kind-hearted Uncle Sam: "Sent also something
 on my own account." And sometimes he sent something when she had said
 send nothing, and she got the credit for it: "Dear Uncle Sam, I am so
-glad to think that I am laying up such a store in heaven upon _your_ £2
+glad to think that I am laying up such a store in heaven upon _your_ Â£2
 sent without my permission to this woman." The uncle's tongue was almost
 as sharp and witty, I have been told, as the niece's pen, and he must
 have found her comments very congenial.
@@ -19370,10 +19334,10 @@ The relations between father and daughter had been made more intimate by
 her book of religious and philosophical speculation. Mr. Nightingale, it
 may be added, had enlarged Florence's allowance at the time of the
 marriage of his other daughter. Henceforth he undertook to pay, without
-question, all her bills for board and lodging, and to allow her £500 a
+question, all her bills for board and lodging, and to allow her Â£500 a
 year besides. She had made, too, a considerable sum by her _Notes on
 Nursing_, and was able to enlarge the scale of her benefactions. Among
-the first uses which she made of her enlarged means was to give £500 for
+the first uses which she made of her enlarged means was to give Â£500 for
 the improvement of the school near Lea Hurst, in which her cousin
 Beatrice (who during these years often lived there with Mr. and Mrs.
 Nightingale) was greatly interested, especially for the sanitary
@@ -19407,9 +19371,9 @@ touch which their recipient relished, as in this:--
 
      (_Miss Nightingale to Madame Mohl._) _June_ 6 [1859].... Balzac
      somewhere says how all the world, friends and enemies, _se fait
-     complice de nos défauts_. And I have heard you observe that English
+     complice de nos dÃ©fauts_. And I have heard you observe that English
      mothers act Greek chorus to their children. Do, you philosophers (I
-     am _passée_ and off the philosophizing stage), come over and
+     am _passÃ©e_ and off the philosophizing stage), come over and
      explain to us English society now--where everybody has some little
      moral reason for doing everything that he likes, where health is
      made the excuse for neglecting every duty and at the same time the
@@ -19522,7 +19486,7 @@ THE ART OF BOTTICELLI. AN ESSAY IN INTERPRETATION.
 
 By LAURENCE BINYON. With 23 Colour Collotypes, and an Original Etching
 by MUIRHEAD BONE, signed by the Artist. Limited to 275 copies. Royal
-4to. £12:12s. net.
+4to. Â£12:12s. net.
 
 JUST SO STORIES.
 
@@ -19554,7 +19518,7 @@ D.Litt. 8vo. 1Os. 6d. net.
 HUNGARY'S FIGHT FOR NATIONAL EXISTENCE: OR, THE HISTORY OF THE GREAT
 UPRISING LED BY FRANCIS RAKOCZI II., 1703-1711.
 
-By LADISLAS BARON HENGELMÜLLER. With an Introduction by THEODORE ROOSEVELT.
+By LADISLAS BARON HENGELMÃœLLER. With an Introduction by THEODORE ROOSEVELT.
 8vo.
 
 RECOLLECTIONS.
@@ -19640,7 +19604,7 @@ TRISTRAM AND ISOULT.
 
 By MARTHA KINROSS. Crown 8vo.
 
-THE BALLADS OF THÉODORE DE BANVILLE.
+THE BALLADS OF THÃ‰ODORE DE BANVILLE.
 
 Translated into English Verse by ARCHIBALD T. STRONG. Crown 8vo.
 
@@ -19674,7 +19638,7 @@ The table below lists all corrections applied to the original text.
   p 38: and tears of ectasy -> ecstasy
   p 73: quite made us start -> startle
   p 92: They staid -> stayed
-  p 92: die mit überfliezendem -> überfließendem
+  p 92: die mit Ã¼berfliezendem -> Ã¼berflieÃŸendem
   p 92: beherbergt" _Eine -> (_Eine
   p 132: I came. Mr. -> M.
   p 132: F. N -> F. N.
@@ -19697,367 +19661,4 @@ The table below lists all corrections applied to the original text.
 End of the Project Gutenberg EBook of The Life of Florence Nightingale vol.
 1 of 2, by Edward Tyas Cook
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE LIFE OF FLORENCE ***
-
-***** This file should be named 40057-8.txt or 40057-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/0/0/5/40057/
-
-Produced by Jeannie Howse, Jens Nordmann, Bryan Ness and
-the Online Distributed Proofreading Team at
-http://www.pgdp.net (This file was produced from images
-generously made available by The Internet Archive/Canadian
-Libraries)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 40057 ***
